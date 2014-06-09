@@ -314,14 +314,16 @@ hgroup {
 }
 
 @media only screen and (max-width : 480px) {
+    body {
+        padding: 10px 5px 0 5px;
+    }
     #logoWrapper {
         transform: scale(0.75);
     }
 
     nav {
         height: auto;
-        /*margin-top: -15px;
-*/
+
         ul {
             display: none;
             height: auto;
@@ -373,9 +375,12 @@ hgroup {
         h1 {
             font-size: 30px;
         }
-
+        h2 {
+            font-size: 16px;
+        }
         h3 {
             font-size: 16px;
+            padding: 0px;
         }
     }
 }
@@ -391,6 +396,6 @@ hgroup {
                 border-bottom: 1px solid #576979;
             }
         }
-
     }
+
 }
