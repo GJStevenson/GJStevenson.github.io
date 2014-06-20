@@ -241,10 +241,10 @@ hgroup {
     border-radius: 50%; }
   .icons .email-icon {
     background: url("icons/email-32.png") no-repeat center center; }
-  .icons .twitter-icon {
-    background: url("icons/twitter-32.png") no-repeat center center; }
-  .icons .linkedin-icon {
-    background: url("icons/linkedin-32.png") no-repeat center center; }
+  .icons .tw-icon {
+    background: url("icons/tw-32.png") no-repeat center center; }
+  .icons .lin-icon {
+    background: url("icons/lin-32.png") no-repeat center center; }
 
 /* blog.html */
 .blog-msg {
