@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:GJStevenson/GJStevenson.github.io.git",
   "author": "Garrett Stevenson <stevenson.garrett@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
 }
