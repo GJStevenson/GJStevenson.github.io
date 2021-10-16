@@ -3,4 +3,4 @@ module.exports = {
         input: "src",
         output: "docs"
     }
-};
+}
